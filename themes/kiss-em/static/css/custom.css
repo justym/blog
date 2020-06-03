@@ -5,7 +5,8 @@
 .content h4,
 .content h5,
 .content h6 {
-    color: #42464C;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .areatitle {
