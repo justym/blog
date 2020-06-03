@@ -1,0 +1,33 @@
+name = "Kiss'Em"
+license = "MIT"
+licenselink = "https://github.com/pavel-pi/kiss-em/master/LICENSE.md"
+description = "Even more simple Hugo blogging theme"
+homepage = "https://github.com/pavel-pi/kiss-em"
+tags = [
+  "blog",
+  "minimal",
+  "minimalist",
+  "responsive",
+  "rss"
+]
+features = [
+  "accessibility",
+  "cover-image",
+  "favicon",
+  "multilingual",
+  "pagination",
+  "shortcodes",
+  "single-column",
+  "social-menu",
+  "syntax-highlighting",
+]
+min_version = 0.28
+
+[author]
+  name = "Pavel Pi"
+  homepage = "https://blog.pavel-pi.de"
+
+[original]
+  name = "kiss"
+  homepage = "https://themes.gohugo.io/theme/kiss/"
+  repo = "https://github.com/ribice/kiss"

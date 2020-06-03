@@ -1,0 +1,20 @@
+[home]
+other = "Home"
+
+[blog_title]
+other = "Blog"
+
+[microblog_title]
+other = "Microblog"
+
+[read_more]
+other = "Read more"
+
+[similar_articles]
+other = "Similar articles"
+
+[prev_page]
+other = "Older"
+
+[next_page]
+other = "Newer"

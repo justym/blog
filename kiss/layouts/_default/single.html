@@ -1,0 +1,22 @@
+<!-- Header -->
+{{ partial "header" . }}
+
+<!-- Navigation -->
+{{ partial "nav" . }}
+
+<section class="section">
+    
+    <div class="container">
+    
+        {{ if eq .Type "page" }}
+            {{ partial "page" . }}
+        {{ else }}
+            {{ partial "article" . }}
+        {{ end }}
+
+    </div>
+
+</section>
+
+<!-- Footer -->
+{{ partial "footer" . }}

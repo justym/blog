@@ -1,0 +1,47 @@
+baseurl = "https://example.com"
+languageCode = "en"
+theme = "kiss-em"
+Paginate = 5 # Number of posts per page
+enableRobotsTXT = true
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.de]
+    title = "Das ist Kiss'Em!"
+    weight = 2
+  [languages.en]
+    title = "Kiss'Em!"
+    weight = 1
+
+[params.microblog]
+number = 2
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params.rss]
+enable = true
+includeContent = true
+authorName = "Pavel Pi"
+authorEmail = "info@pavel-pi.de"
+
+[params.info]
+poweredby = true 
+related = true 
+copyright = "© <a href=\"https://github.com/pavel-pi\">Pavel Pi</a> 2020"
+
+[params.social]
+about = "about"
+twitter = "@_pavel_pi_"
+github = "pavel-pi"
+email = "info@pavel-pi.de"
+rss = "index.xml"
+
+# Define the order of the icons:
+[params.social.config]
+platforms = ["about", "email", "github", "twitter", "xing", "rss"]
+
+[taxonomies]
+tag ="tags"
+
+
