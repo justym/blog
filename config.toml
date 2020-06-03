@@ -1,0 +1,43 @@
+baseurl = "https://example.com"
+languageCode = "en"
+theme = "kiss-em"
+Paginate = 2 # Number of posts per page
+enableRobotsTXT = true
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    title = "Justym"
+    weight = 10
+
+[params.microblog]
+number = 1
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params.rss]
+enable = true
+includeContent = true
+authorName = "justym"
+authorEmail = "justym8132@gmail.com"
+
+[params.info]
+poweredby = true 
+related = true 
+copyright = "© <a href=\"https://github.com/justym\">justym</a> 2020"
+
+[params.social]
+about = "about"
+twitter = "@justym8132"
+github = "justym"
+email = "justym8132@gmail.com"
+
+# Define the order of the icons:
+[params.social.config]
+platforms = ["twitter", "github", "email"]
+
+[taxonomies]
+tag ="tags"
+
+
