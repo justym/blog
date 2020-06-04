@@ -7,7 +7,7 @@ draft: true
 
 A student in Japan.    
 Interested in Go programming language.   
-I will post about dev, hoby, memo, etc . . .   
+I will post about dev, hobbies, memo, etc . . .   
 
 
 # Social Media
