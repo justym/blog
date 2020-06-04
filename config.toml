@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://justym.com"
 languageCode = "en"
 theme = "kiss-em"
 Paginate = 3 # Number of posts per page
