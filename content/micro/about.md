@@ -16,6 +16,8 @@ I will post about dev, hobbies, memo, etc . . .
 - [Instagram](https://www.instagram.com/justym8132/)
 - [GitHub](https://github.com/justym)
 - [Medium](https://medium.com/@justym8132)
+- [Hatena Blog](https://justym.hatenablog.com/)
+- [Twitch](https://www.twitch.tv/justym)
 
 
 
